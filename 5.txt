@@ -15,6 +15,14 @@ apt-cache policy docker-ce
 
 sudo apt-get install -y docker-ce
 
+** In case of "Failed to Start Docker Application" or "Is Docker Daemon running?" error. Ignore this step if otherwise. **
+
+-- Open a new terminal and type in the following command:
+
+sudo systemctl start docker
+
+-- Come back to the previous terminal and continue the process as given below. 
+
 
 
 2) Create a docker network 
