@@ -20,4 +20,4 @@ curl https://raw.githubusercontent.com/UDITMSC/BC/main/1a.py -o new.py
 
 Note: The above example is provided for demonstration purposes and may not be applicable to your use case.
 
-### Note: Please refer to journal.pdf for indexes.
+### Note: Please refer to BCJournal.pdf for indexes.
